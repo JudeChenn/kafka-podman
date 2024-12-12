@@ -1,0 +1,1 @@
+{"version":1,"partitions":[{"topic":"platform.scooter.user.change","partition":0,"replicas":[1,2,3],"log_dirs":["any","any","any"]}]}
